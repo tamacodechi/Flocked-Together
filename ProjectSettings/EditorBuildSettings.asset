@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2611cf1cc3193404db4643ee9b1b1cef
+  - enabled: 1
+    path: Assets/Scenes/Birdtionary.unity
+    guid: 5efa6edfc374a11458e693267c951a8c
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: aace54cd40f43fa4a903fa81f9e8889a
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: f460e8c03ce1df349be5701a6d6fca98
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: df6405a8c24c7cb4f9e110f5f256098a
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 7027746a55607d34e870cdfd3b93a0a1
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 6d8da6259074ad14b9db57bf0325cc7d
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: 3a452cb549bf9da43832df05e65b4c34
+  m_configObjects: {}
